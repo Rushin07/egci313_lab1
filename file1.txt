@@ -1,1 +1,1 @@
-hello
+git remote add myrepo https://github.com/Rushin07/egci313_lab1.git
